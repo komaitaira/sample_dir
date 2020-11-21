@@ -1,0 +1,25 @@
+.btn-1{
+  margin: 20px;
+}
+
+.btn-2{
+  margin: 20px;
+}
+
+.favorite-food{
+  color: #187e75bb;
+}
+
+.card{
+  padding: 10px;
+}
+
+.like{
+  color: red;
+  margin-left: 10px;
+}
+
+/* これを解除するとどうなるか試してみてください */
+/* .card{
+  margin: 10px;
+} */
